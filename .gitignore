@@ -4,8 +4,6 @@ node_modules/
 
 Archivos de entorno y secretos (¡MUY IMPORTANTE NO SUBIR!)
 
-.env
-
 Logs de errores
 
 npm-debug.log*
